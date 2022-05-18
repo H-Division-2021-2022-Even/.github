@@ -27,7 +27,7 @@
 <td style="width: 25%; height: 24px; text-align: center;"><a href="https://github.com/H-Division-2021-2022-Even/Repo-03/wiki" target="_blank" rel="noopener">Team 03</a></td>
 <td style="width: 25%; height: 24px; text-align: center;"><a href="https://github.com/H-Division-2021-2022-Even/Repo-07/wiki" target="_blank" rel="noopener">Team 07</a></td>
 <td style="width: 25%; height: 24px; text-align: center;"><a href="https://github.com/H-Division-2021-2022-Even/Repo-12/wiki" target="_blank" rel="noopener">Team 12</a></td>
-<td style="width: 25%; height: 24px; text-align: center;"><a href="https://github.com/H-Division-2021-2022-Even/Repo-16/wiki" target="_blank" rel="noopener">Team 16</a></td>
+<td style="width: 25%; height: 24px; text-align: center;"><a href="https://github.com/H-Division-2021-2022-Even/Repo-16/" target="_blank" rel="noopener">Team 16</a></td>
 </tr>
 <tr style="height: 24px;">
 <td style="width: 25%; height: 24px; text-align: center;"><a href="https://github.com/H-Division-2021-2022-Even/Repo-04/wiki" target="_blank" rel="noopener">Team 04</a></td>
